@@ -5,4 +5,4 @@
 
 # Server Information
 
-_They hate you, and will abuse you. But they have cookies. (Oatmeal Raisin)_
+Moghouse is currently in a state of testing but is moving forward to a 75 Cap, Zilart Era ONLY server. We are building this era specific stuff as Modules so as to contribute that back to the project in the future if people want to follow era specific things. 
